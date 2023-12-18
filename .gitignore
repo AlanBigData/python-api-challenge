@@ -27,7 +27,7 @@ share/python-wheels/
 MANIFEST
 
 #api keys
-api_keys.py
+api_prj_files/api_keys.py
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
