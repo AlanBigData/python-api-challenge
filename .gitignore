@@ -30,6 +30,7 @@ MANIFEST
 api_prj_files/api_keys.py
 api_prj_files/VacationPy.ipynb
 api_prj_files/WeatherPy.ipynb
+api_prj_files/__pycache__
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
