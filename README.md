@@ -4,8 +4,8 @@
 
 ### 2.) ***[VacationPy- Jupiter Notebook Script Link:](https://github.com/AlanBigData/python-api-challenge/blob/main/api_prj_files/VacationPy-alan.ipynb)***<br>
 
-### 3.) ***Exported Images Files - Mice Research:***
--  [Weather Plot 1](hhttps://github.com/AlanBigData/python-api-challenge/blob/main/output_data/Fig1.png)<br>
+### 3.) ***Exported Images Files - Weather & Vacations Data/Plots:***
+-  [Weather Plot 1](https://github.com/AlanBigData/python-api-challenge/blob/main/output_data/Fig1.png)<br>
 -  [Weather Plot 2](https://github.com/AlanBigData/python-api-challenge/blob/main/output_data/Fig2.png)<br>
 -  [Weather Plot 3](https://github.com/AlanBigData/python-api-challenge/blob/main/output_data/Fig3.png)<br>
 -  [Weather Plot 4](https://github.com/AlanBigData/python-api-challenge/blob/main/output_data/Fig4.png)<br>
