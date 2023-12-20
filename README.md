@@ -1,6 +1,6 @@
 # Python-api-challenge # 6 <br>
 ## **Completed By: Alan Lawrence** <br>
-### 1.) ***[WeatherPy - Jupiter Notebook Script Link:](https://github.com/AlanBigData/python-api-challenge/blob/main/api_prj_files/WeatherPy-alan.ipynb)***<br>
+### 1.) ***[WeatherPy - Jupiter Notebook Script Link:](https://github.com/AlanBigData/python-api-challenge/blob/main/api_prj_files/WeatherPy-alan2.ipynb)***<br>
 
 ### 2.) ***[VacationPy- Jupiter Notebook Script Link:](https://github.com/AlanBigData/python-api-challenge/blob/main/api_prj_files/VacationPy-alan.ipynb)***<br>
 
